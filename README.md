@@ -1,6 +1,5 @@
 # Streaming_05_smart_smoker
-# Streaming_05_smart_smoker
-streaming-05-smart-smoker
+
 Author: Elsa Ghirmazion
 Date: February 7, 2023 Class: Streaming Data Assignment: Module 05
 
