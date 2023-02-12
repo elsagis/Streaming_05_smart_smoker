@@ -62,3 +62,8 @@ This project should clearly build on skills and code we've already mastered. If 
 The primary difference should be going from 1 to 3 queue_names and from 1 to 3 callbacks.
 Part of the challenge is to implement analytics using the tools and approach provided (don't significantly refactor the codebase during your first week of work!)
 AFTER earning credit for the assignment, THEN create and share additional custom projects.
+
+Screenshot
+![A5_Streaming Smart Smoker](https://user-images.githubusercontent.com/105325747/218296338-00384250-7ec5-40af-bd5b-99a73e2c0e52.png)
+![bbq_producer-streaming](https://user-images.githubusercontent.com/105325747/218296366-23344705-f831-47a0-a4c9-a7de9e950508.png)
+
