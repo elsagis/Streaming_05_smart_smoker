@@ -66,6 +66,6 @@ AFTER earning credit for the assignment, THEN create and share additional custom
 Screenshot
 ![A5_Streaming Smart Smoker](https://user-images.githubusercontent.com/105325747/218296338-00384250-7ec5-40af-bd5b-99a73e2c0e52.png)
 ![bbq_producer-streaming](https://user-images.githubusercontent.com/105325747/218296366-23344705-f831-47a0-a4c9-a7de9e950508.png)
-![bbq_producer-streaming](https://user-images.githubusercontent.com/105325747/218637024-e0cddbe7-bb5c-4aca-88cd-333dc05913e9.png)
+![RabbitmqAdming streaming](https://user-images.githubusercontent.com/105325747/218637228-3cf3ad19-e0d1-4fff-a9d3-c9bf01683961.png)
 
 
