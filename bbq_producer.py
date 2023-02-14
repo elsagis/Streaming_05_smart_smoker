@@ -1,3 +1,12 @@
+# Author: Elsa Ghirmazion
+# February 12, 2023
+
+""""  
+ This program sends a message to a queue on the RabbitMQ server.
+    We want to stream information from a smart smoker. Read one value every half minute
+  Based on Module 4 version 3 .py program
+"""
+
 import pika
 import sys
 import webbrowser
